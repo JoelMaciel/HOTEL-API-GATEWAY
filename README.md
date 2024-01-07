@@ -11,7 +11,7 @@
 
 ## Technology used :
 -  JAVA ---  SPRING BOOT ---  DOCKER 
--  Resilience4j --- CircuitBreaker --- Rate Limiter --- Redis
+-  RESILIENCE4J --- CIRCUIT-BREAKER --- RATE LIMITER --- REDIS
 -  CI/CD --- JUNIT5 ---  MOCKITO --- JACOCO
 -  API GATEWAY ---  SERVICE DISCOVERY (EUREKA)
 -  OPEN FEIGN --- OPEN API (SWAGGER)
@@ -20,8 +20,8 @@
 
 ## Request Images
 
-### Api Gateway
-![Captura de tela de 2024-01-07 09-32-05](https://github.com/JoelMaciel/KAF-USER-SERVICE/assets/77079093/13217e5b-bd4c-4119-acca-4e2adb874eb6)
+### Eureka Discovery
+![Captura de tela de 2024-01-07 10-54-07](https://github.com/JoelMaciel/kaf-config-repo/assets/77079093/5c6a9a05-d278-4d94-b8bd-573af6303e05)
 
 ### Applications configurations
 ![Captura de tela de 2024-01-07 08-54-13](https://github.com/JoelMaciel/KAF-USER-SERVICE/assets/77079093/0b0e2328-7b9b-4787-9220-a382523932b7)
