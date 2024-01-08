@@ -21,7 +21,7 @@
 ## Request Images
 
 ### Eureka Discovery
-![Captura de tela de 2024-01-07 10-54-07](https://github.com/JoelMaciel/kaf-config-repo/assets/77079093/5c6a9a05-d278-4d94-b8bd-573af6303e05)
+![Captura de tela de 2024-01-08 17-06-34](https://github.com/JoelMaciel/KAF-AUTHENTICATION-SERVICE/assets/77079093/59454fe7-93d7-4826-bd00-062bb24e9bfb)
 
 ### Applications configurations
 ![Captura de tela de 2024-01-07 08-54-13](https://github.com/JoelMaciel/KAF-USER-SERVICE/assets/77079093/0b0e2328-7b9b-4787-9220-a382523932b7)
